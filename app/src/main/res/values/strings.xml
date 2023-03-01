@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PanicRing</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="Bienvenido">Bienvenido a PanicRing</string>
+    <string name="IniciarSesion">Iniciar Sesión</string>
+    <string name="MainPage">Activa/Desactiva la alerta presionando el simbolo</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+    <string name="btn_home">Inicio</string>
+    <string name="btn_messages">Mensajes</string>
+    <string name="btn_profile">Cuenta</string>
+    <string name="btn_privacy">Acepto los terminos y condiciones de uso</string>
+    <string name="btn_location">Ubicación</string>
+    <string name="txt_cuenta">Cuenta</string>
+    <string name="txt_config">Configuración</string>
+    <string name="txt_contactos">Contactos</string>
+    <string name="txt_terms">Terminos y Condiciones</string>
+    <string name="txtview_email">Correo:</string>
+    <string name="txtview_pass">Contraseña:</string>
+    <string name="txtview_name">Nombre:</string>
+    <string name="txtview_lastname">Apellidos:</string>
+    <string name="txtview_phone">Teléfono:</string>
+    <string name="txtview_passconfirm">Confirmar Contraseña:</string>
+    <string name="txtview_settings">Configuración</string>
+    <string name="btn_save_config">Guardar Cambios</string>
+    <string name="txtview_change_pass">Cambiar Contraseña</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632420682717",
+    "project_id": "panicring-c276e",
+    "storage_bucket": "panicring-c276e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632420682717:android:44bc8a2b76f0a7bab90434",
+        "android_client_info": {
+          "package_name": "com.example.panicring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632420682717-ajbbgmvd3178p4l9581nicklk333ov7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3UsFrhDqKQGX_3L2s7Ljq2yq8yaPIXt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632420682717-ajbbgmvd3178p4l9581nicklk333ov7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
